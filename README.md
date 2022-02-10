@@ -1,2 +1,2 @@
 # odin-recipes
-Odin exercise to make a basic recipe website
+Odin exercise to make a basic recipe website using HTML.

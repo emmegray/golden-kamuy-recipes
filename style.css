@@ -1,0 +1,55 @@
+body {
+    background-image: url(img/gk-background.jpg);
+    background-size: cover;
+    font-family: "Roboto", sans-serif;
+}
+
+.body {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.70);
+    border-radius: 5px;
+    min-width: 360px;
+    max-width: 1200px;
+    min-height: 100px;
+    padding: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+    color: azure;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 50px;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 50px;
+}
+
+.trio {
+    border-style: solid;
+    border: 10px solid;
+}
+
+.yuk {
+    border-style: solid;
+    border: 10px solid;
+}
+
+a {
+    color: dimgray;
+}
