@@ -88,4 +88,16 @@ body {
 
 a {
     color: rgb(255, 255, 255);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+h1 {
+    text-shadow: 0 0 15px #ffad29;
+}
+
+h3 {
+    text-shadow: 0 0 15px #ffad29;
 }
