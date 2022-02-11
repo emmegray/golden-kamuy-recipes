@@ -24,13 +24,15 @@ body {
     flex-direction: column;
     justify-content: space-around;
     margin-right: 50px;
+    margin-left: 20px;
+    padding: 10px;
 }
 
 .right {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    text-align: center;
+    text-align: left;
 }
 
 .center {
@@ -38,6 +40,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     margin-left: 50px;
+    text-align: center;
 }
 
 .trio {
@@ -45,7 +48,30 @@ body {
     border: 10px solid;
 }
 
+.credits {
+    border-color: azure;
+    background-color: rgb(29, 29, 29);
+    border-style: double;
+    border-radius: 5px;
+}
+
+.odin {
+    padding: 10px;
+    width: 150px;
+
+}
+
 .yuk {
+    border-style: solid;
+    border: 10px solid;
+}
+
+.citatap {
+    border-style: solid;
+    border: 10px solid;
+}
+
+.kombu {
     border-style: solid;
     border: 10px solid;
 }
